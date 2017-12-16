@@ -1,2 +1,2 @@
 ceci est un fichier txt de qualite
-modifi depuis github
+modifs depuis github
